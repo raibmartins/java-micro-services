@@ -1,0 +1,4 @@
+com\rai\course\core\model\AbstractEntity.class
+com\rai\course\core\repository\CourseRepository.class
+com\rai\course\core\model\Course$CourseBuilder.class
+com\rai\course\core\model\Course.class
